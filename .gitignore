@@ -1,0 +1,17 @@
+*.suo
+*.user
+[B|b]in/*
+*/[B|b]in/*
+Debug/*
+*/Debug/*
+*/bin/*
+*/obj/*
+obj/*
+*.orig
+*.rej
+*.patch
+*.log
+*.opensdf
+*.sdf
+*.rar
+*.bak
